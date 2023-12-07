@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Othon Gonzaga, Sofware Developer JR!</h1> 
+<h1>Olá, eu sou Othon Gonzaga, Sofware Developer JR</h1> 
 <h2>Um curioso, apaixonado por tecnologia e estou desde 2020 inserido na programação. Busco sempre estar melhorando e evoluindo cada vez mais.</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
